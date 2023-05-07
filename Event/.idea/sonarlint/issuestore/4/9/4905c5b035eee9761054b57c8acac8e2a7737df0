@@ -1,0 +1,8 @@
+
+
+java:S1319”"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(‚äÑ‘8ùîÌêõ0
+“
+java:S1319£"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(‚ˆšÂüÿÿÿÿ8ùîÌêõ0
+^	java:S107"BConstructor has 10 parameters, which is greater than 7 authorized.(í¢±ç8±İŒêõ0
+^
+java:S1126|"AReplace this if-then-else statement by a single return statement.(úÙÜ8üïÌêõ0

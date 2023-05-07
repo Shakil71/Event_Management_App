@@ -1,0 +1,59 @@
+
+j
+java:S1192‘"GDefine a constant instead of duplicating this literal "Update" 3 times.(˜¨«¼şÿÿÿÿ8‹Â©Åø0
+k
+java:S1192c"IDefine a constant instead of duplicating this literal "Invalid " 4 times.(¨¬Ô‡ıÿÿÿÿ8ŒÂ©Åø0
+K
+java:S1604"(Make this anonymous inner class a lambda(ˆ§ôøÿÿÿÿ8Â©Åø0
+K
+java:S1604¢"(Make this anonymous inner class a lambda(·Î¢±ûÿÿÿÿ8Â©Åø0
+F
+java:S1604š"(Make this anonymous inner class a lambda(šÔË¢8Â©Åø0
+K
+java:S1604¬"(Make this anonymous inner class a lambda(ÕÑÇşÿÿÿÿ8Â©Åø0
+F
+java:S1604µ"(Make this anonymous inner class a lambda(‰¡åÂ8Â©Åø0
+>
+java:S1643c"Use a StringBuilder instead.(¨¬Ô‡ıÿÿÿÿ8Â©Åø0
+>
+java:S1643g"Use a StringBuilder instead.(æïĞÁùÿÿÿÿ8Â©Åø0
+>
+java:S1643j"Use a StringBuilder instead.(æïĞÁùÿÿÿÿ8Â©Åø0
+>
+java:S1643n"Use a StringBuilder instead.(æïĞÁùÿÿÿÿ8Â©Åø0
+f
+java:S2095†"HUse try-with-resources or close this "KeyValueDB" in a "finally" clause.(…´íˆ8êÈ©Åø0
+f
+java:S2095õ"HUse try-with-resources or close this "KeyValueDB" in a "finally" clause.(…´íˆ8êÈ©Åø0
+f
+java:S2095Ï"HUse try-with-resources or close this "KeyValueDB" in a "finally" clause.(…´íˆ8ëÈ©Åø0
+f
+java:S1659"DDeclare "etPlace" and all following declarations on a separate line.(‚áî¹ùÿÿÿÿ8òÈ©Åø0
+c
+java:S1659"FDeclare "rbOutdoor" and all following declarations on a separate line.(ô‘ï8òÈ©Åø0
+a
+java:S1659"DDeclare "btShare" and all following declarations on a separate line.(­áŒø8óÈ©Åø0
+s
+java:S1450"VRemove the "btShare" field and declare it as a local variable in the relevant methods.(­áŒø8ôÈ©Åø0
+^
+java:S1659@"BDeclare "place" and all following declarations on a separate line.(Ï†š8şÈ©Åø0
+U	java:S106^"9Replace this use of System.out or System.err by a logger.(ñ­²£8ƒÉ©Åø0
+U	java:S106_"9Replace this use of System.out or System.err by a logger.(ƒù¢¦8ƒÉ©Åø0
+U	java:S106b"9Replace this use of System.out or System.err by a logger.(Ò°Ìš8…É©Åø0
+Z	java:S106f"9Replace this use of System.out or System.err by a logger.(ÙôŒúûÿÿÿÿ8†É©Åø0
+U	java:S106m"9Replace this use of System.out or System.err by a logger.(Ò°Ìš8‰É©Åø0
+U	java:S106t"9Replace this use of System.out or System.err by a logger.(ûê§é8‰É©Åø0
+Z	java:S106w"9Replace this use of System.out or System.err by a logger.(½Ä‚Ùÿÿÿÿÿ8‰É©Åø0
+o
+java:S3776|"RRefactor this method to reduce its Cognitive Complexity from 19 to the 15 allowed.(ƒİ‚Û8ŠÉ©Åø0
+[	java:S106­"9Replace this use of System.out or System.err by a logger.(ß“Ãûşÿÿÿÿ8“É©Åø0
+[	java:S106·"9Replace this use of System.out or System.err by a logger.(ò‰¶£şÿÿÿÿ8”É©Åø0
+[	java:S106º"9Replace this use of System.out or System.err by a logger.(í‚‰ùÿÿÿÿ8•É©Åø0
+[	java:S106Ã"9Replace this use of System.out or System.err by a logger.(òâ›äùÿÿÿÿ8–É©Åø0
+V	java:S106Ò"9Replace this use of System.out or System.err by a logger.(¡„İ–8™É©Åø0
+u
+java:S3776Ö"RRefactor this method to reduce its Cognitive Complexity from 21 to the 15 allowed.(¨Œşÿÿÿÿ8šÉ©Åø0
+V	java:S106÷"9Replace this use of System.out or System.err by a logger.(‡›–8É©Åø0
+Y	java:S125¥"<This block of commented-out lines of code should be removed.(¢ùÇÓ8¥É©Åø0
+[	java:S106Á"9Replace this use of System.out or System.err by a logger.(±®·Ëıÿÿÿÿ8¨É©Åø0
+[	java:S106Ê"9Replace this use of System.out or System.err by a logger.(±®·Ëıÿÿÿÿ8«É©Åø0

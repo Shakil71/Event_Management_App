@@ -1,0 +1,27 @@
+
+J
+java:S1066-"/Merge this if statement with the enclosing one.( §Øÿÿÿÿÿ
+q
+java:S1488U"[Immediately return this expression instead of assigning it to the temporary variable "res".(ÚÁùØ
+o	java:S116"ZRename this field "TABLE_KEY_VALUE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.( öÀì
+h	java:S116"NRename this field "KEY" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.( Ÿ –ıÿÿÿÿ
+e	java:S116"PRename this field "VALUE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(«¿œ™
+7
+java:S1170"!Make this final field static too.( öÀì
+<
+java:S1170"!Make this final field static too.( Ÿ –ıÿÿÿÿ
+7
+java:S1170"!Make this final field static too.(«¿œ™
+N	java:S106"9Replace this use of System.out or System.err by a logger.(İ›Ôù
+>	java:S108 ")Either remove or fill this block of code.(”ı¾
+Q	java:S125&"<This block of commented-out lines of code should be removed.(ß²»ü
+Z
+java:S1858+"D"getMessage" returns a string, there's no need to call "toString()".(¥è‡Ò
+Q	java:S1259"<This block of commented-out lines of code should be removed.(†€éˆ
+\
+java:S1126L"AReplace this if-then-else statement by a single return statement.(Ğüæ§şÿÿÿÿ
+C	java:S108g")Either remove or fill this block of code.(±Ÿ—±ÿÿÿÿÿ
+C	java:S108y")Either remove or fill this block of code.(±Ÿ—±ÿÿÿÿÿ
+?
+java:S1481”"(Remove this unused "res" local variable.(ÇĞ·—
+R	java:S125˜"<This block of commented-out lines of code should be removed.(†€éˆ

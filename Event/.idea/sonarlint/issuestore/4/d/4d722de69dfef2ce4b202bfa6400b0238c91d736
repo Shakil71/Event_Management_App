@@ -1,0 +1,36 @@
+
+d
+java:S1192?"GDefine a constant instead of duplicating this literal "Signup" 4 times.(˜ÜÕ©8£Óıõ0
+s
+java:S1192B"QDefine a constant instead of duplicating this literal "rememberPassword" 3 times.(›¥Ùšüÿÿÿÿ8£Óıõ0
+l
+java:S1192A"ODefine a constant instead of duplicating this literal "rememberUserID" 3 times.(³½ûË8£Óıõ0
+h
+java:S1192<"FDefine a constant instead of duplicating this literal "Login" 4 times.(İÓµ¶ûÿÿÿÿ8¤Óıõ0
+c
+java:S1192E"GDefine a constant instead of duplicating this literal "userID" 4 times.(ìæ]8¤Óıõ0
+k
+java:S1192I"IDefine a constant instead of duplicating this literal "password" 3 times.(Ì¹¸­ùÿÿÿÿ8¤Óıõ0
+J
+java:S1604}"(Make this anonymous inner class a lambda(íØÏõıÿÿÿÿ8¤Óıõ0
+E
+java:S1604…"(Make this anonymous inner class a lambda(òÌ8¥Óıõ0
+F
+java:S1604’"(Make this anonymous inner class a lambda(Ñù–®8¥Óıõ0
+g
+java:S1659"KDeclare "tvActionTittle" and all following declarations on a separate line.(Ô«L8‹×ıõ0
+a
+java:S1659"DDeclare "trEmail" and all following declarations on a separate line.(‚»¾É8‹×ıõ0
+a
+java:S1659"DDeclare "etEmail" and all following declarations on a separate line.(±÷øê8‹×ıõ0
+F
+java:S1659"$Declare "cbPass" on a separate line.(æÌ¨üÿÿÿÿ8‹×ıõ0
+?
+java:S1659""Declare "btGo" on a separate line.(Äˆ‡8‹×ıõ0
+^
+java:S1659"ADeclare "name" and all following declarations on a separate line.(Ê»ĞÙ8‹×ıõ0
+P
+java:S1659".Declare "rememberPassword" on a separate line.(©ĞÅ’şÿÿÿÿ8‹×ıõ0
+t
+java:S3776\"RRefactor this method to reduce its Cognitive Complexity from 30 to the 15 allowed.(¨Œşÿÿÿÿ8—×ıõ0
+^	java:S125"<This block of commented-out lines of code should be removed.(´£ç‚øÿÿÿÿ8›×ıõ0

@@ -1,0 +1,21 @@
+
+c
+3app/src/main/java/edu/ewubd/event/DemoActivity.java,b\5\b53764f07628babd73897c7c719c4409265eb269
+e
+5app/src/main/java/edu/ewubd/event/CursorToString.java,2\1\21ecea5d7a5c69d6dc901fe06005603a0b358bb0
+c
+3app/src/main/java/edu/ewubd/event/MainActivity.java,e\d\ed4180125db6048960d55b7f3cd73a3787509510
+e
+5app/src/main/java/edu/ewubd/event/SignupActivity.java,4\d\4d722de69dfef2ce4b202bfa6400b0238c91d736
+i
+9app/src/main/java/edu/ewubd/event/CustomEventAdapter.java,8\e\8ef282d0eb1557217b7d4df4175472c0add02eac
+a
+1app/src/main/java/edu/ewubd/event/KeyValueDB.java,7\e\7ed9c34c6ef65f18a4716d286a91a6aa312313f2
+\
+,app/src/main/java/edu/ewubd/event/Event.java,4\9\4905c5b035eee9761054b57c8acac8e2a7737df0
+P
+ app/src/main/AndroidManifest.xml,8\c\8c55c3ccc257e5907959013f99656e4c8ec3903e
+j
+:app/src/main/java/edu/ewubd/event/CreateEventActivity.java,d\5\d51e02b6202d5a181d1595e220a8cbbd9e29c6fe
+e
+5app/src/main/java/edu/ewubd/event/UpcomingEvents.java,b\9\b9d96a0b0a00eaceae4e4de267080d25f58cce92
